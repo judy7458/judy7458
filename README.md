@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Judy from England
+- 👀 I’m interested in React
+- 🌱 I’m currently learning MERN stack
